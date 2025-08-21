@@ -29,3 +29,34 @@ import pandas as pd
 
 df = pd.read_csv("https://raw.githubusercontent.com/mwaskom/seaborn-data/refs/heads/master/tips.csv")
 df.head()
+
+```
+```
+pip install numpy pandas matplotlib seaborn jupyter
+
+```
+### ▶️ Usage
+
+Clone this repo and run the Jupyter notebook:
+
+### 📘 Learning Outcomes
+
+Understand categorical vs. numerical data visualization.
+
+Learn how to use FacetGrid to break down data into subsets.
+
+Explore correlations between features (e.g., tip vs. total_bill).
+
+Build intuition on when to use scatter, violin, box, joint, or pair plots.
+
+### 📜 License
+
+This project is open-source and available under the MIT License
+.
+
+### 🙌 Acknowledgements
+
+Dataset provided by the Seaborn library
+.
+
+Inspired by practical exercises for learning Python data visualization.
